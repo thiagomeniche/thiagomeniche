@@ -26,7 +26,7 @@
   <img align="right" alt="thiago-pic" height="150" style="border-radius:50px;" src="https://thiagomeniche.github.io/img/perfil.jpg">
 </div>
   
-  ##
+  ## 🎫 Minhas Redes Sociais 
  
 <div> 
   <a href = "mailto:thiagomeniche@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
