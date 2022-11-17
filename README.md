@@ -35,7 +35,7 @@
   
   ### Nele voce ira encontrar todos meu projetos e saber um pouco mais sobre mim !
   
-  🎆 - <a href="https://thiagomeniche.github.io/" target="_blank">Thiago Meniche - Dev</a>
+  🎆 - <a href="https://thiagomeniche.github.io/">Thiago Meniche - Dev</a>
   
   ## 🎫 Minhas Redes Sociais 
  
