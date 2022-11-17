@@ -1,7 +1,7 @@
 ### Olá, Tudo bem? 
 
 ##
-Meu nome é Thiago Meniche 🦁
+🦁 Me chamo Thiago meniche, tenho 25 anos e sou formado em <b>Analise e desenvolvimento de sistemas</b> Pela <b> Faculdade IMPACTA </b> 
 
 <div align="center">
   <picture>
