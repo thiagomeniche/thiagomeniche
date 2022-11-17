@@ -35,7 +35,7 @@
   
   ### Nele voce ira encontrar todos meu projetos e saber um pouco mais sobre mim !
   
-  🎆 - https://thiagomeniche.github.io/
+  🎆 - <a href="https://thiagomeniche.github.io/">Portfolio</a>
   
   
   
