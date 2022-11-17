@@ -1,6 +1,6 @@
 ### Olá, Meu nome é Thiago Meniche 🦁
 
-##  ##
+##
 
 <div align="center">
   <picture>
