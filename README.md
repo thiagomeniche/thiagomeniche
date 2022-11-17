@@ -37,6 +37,8 @@
   
   🎆 - <a href="https://thiagomeniche.github.io/">Thiago Meniche - Dev</a>
   
+  ##
+  
   ## 🎫 Minhas Redes Sociais 
  
 <div> 
