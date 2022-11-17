@@ -2,7 +2,7 @@
 ##
 🧙  Me chamo <i><b>Thiago meniche</b></i>, tenho 25 anos e sou formado em <b>Analise e desenvolvimento de sistemas</b> pela <b> Faculdade IMPACTA,</b> sou um grande apaixonado por tecnologia e estudo sobre área desde 2015 quando aprendi a programar no curso de eletrônica na <b>ETEC Gétulio Vargas </b>
 
-📖 Atualmento estou aperfeiçoando minhas <b>skills<b/> em <b>Javascrpit</b> e <b>Python</b> e realizando o curso da <b>ORIGAMID</b> para me aprofundar nos conceitos teoricos e praticos
+📚 Atualmento estou aperfeiçoando minhas <b>skills<b/> em <b>Javascrpit</b> e <b>Python</b> e realizando o curso da <b>ORIGAMID</b> para me aprofundar nos conceitos teoricos e praticos
 ##
 
 
