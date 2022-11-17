@@ -31,13 +31,11 @@
   <img align="right" alt="thiago-pic" height="150" style="border-radius:50px;" src="https://thiagomeniche.github.io/img/perfil.jpg">
 </div>
 
-  ## 🤖 Meus Portfolio 
+  ## 🤖 Meu Portfolio 
   
   ### Nele voce ira encontrar todos meu projetos e saber um pouco mais sobre mim !
   
-  🎆 - <a href="https://thiagomeniche.github.io/">Portfolio</a>
-  
-  
+  🎆 - <a href="https://thiagomeniche.github.io/">Thiago Meniche - Dev</a>
   
   ## 🎫 Minhas Redes Sociais 
  
