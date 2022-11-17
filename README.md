@@ -1,9 +1,11 @@
-### Olá, Tudo bem? 
-
-##
 <div>
   <img align="right" alt="thiago-pic" height="150" style="border-radius:50px;" src="https://thiagomeniche.github.io/img/marca.png">
 </div>
+
+### Olá, Tudo bem? 
+
+##
+
 
 
 🧙  Me chamo <i><b>Thiago meniche</b></i>, tenho 25 anos e sou formado em <b>Analise e desenvolvimento de sistemas</b> pela <b> Faculdade IMPACTA,</b> sou um grande apaixonado por tecnologia e estudo sobre área desde 2015 quando aprendi a programar no curso de eletrônica na <b>ETEC Gétulio Vargas. </b>
