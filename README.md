@@ -1,6 +1,7 @@
-### Olá, Meu nome é Thiago Meniche 🦁
+## Olá, Tudo bem? 
 
 ##
+Meu nome é Thiago Meniche 🦁
 
 <div align="center">
   <picture>
