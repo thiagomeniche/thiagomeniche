@@ -1,6 +1,6 @@
 ### Olá, Tudo bem? 
 ##
-🦁  Me chamo <i>Thiago meniche</i>, tenho 25 anos e sou formado em <b>Analise e desenvolvimento de sistemas</b> pela <b> Faculdade IMPACTA de Tecnologia </b> sou um grande apaixonado por tecnologia e estudo sobre área desde 2015 quando descobri aprendi a programar no curso de eletrônica na <b>ETEC Gétulio Vargas </b>
+🦁  Me chamo <i>Thiago meniche</i>, tenho 25 anos e sou formado em <b>Analise e desenvolvimento de sistemas</b> pela <b> Faculdade IMPACTA,</b> sou um grande apaixonado por tecnologia e estudo sobre área desde 2015 quando descobri aprendi a programar no curso de eletrônica na <b>ETEC Gétulio Vargas </b>
 ##
 
 <div align="center">
