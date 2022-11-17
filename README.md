@@ -1,7 +1,7 @@
 ### Olá, Meu nome é Thiago Meniche 🦁
 
 <div align="center">
-  picture>
+  <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=thiagomeniche&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
